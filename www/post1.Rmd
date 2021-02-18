@@ -1,5 +1,5 @@
 ---
-title: "My first story"
+title: "Blog Post 1"
 ---
 
-It was a dark and stormy night...
+Pending... 
