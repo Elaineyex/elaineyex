@@ -11,9 +11,5 @@ And images:
 
 ![](https://media.giphy.com/media/nRbFz28iIbDKo/giphy.gif)
 
-And don't forget about R code:
 
-```{r}
-knitr::kable(mtcars)
-```
 
