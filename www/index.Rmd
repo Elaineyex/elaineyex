@@ -5,7 +5,7 @@ output:
     toc: false
 ---
 
-This is the website for my reflections and progress in the capstone course! 
+This is the website for my reflections and progress in the SDS 410 capstone course! 
 
 And images:
 
