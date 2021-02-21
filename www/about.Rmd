@@ -2,4 +2,6 @@
 title: "About Me"
 ---
 
-blah blah blah
+My name is Elaine, a senior studying Statistical & Data Sciences and Psychology at Smith College. My favorite twitter account is Out of Context Pokemon @OoCPokemon. 
+
+![](https://media.giphy.com/media/EJwx387GEmm1q/giphy.gif)

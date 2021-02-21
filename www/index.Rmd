@@ -1,15 +1,15 @@
 ---
-title: "My website"
+title: "Elaine's SDS 410 Adventure"
 output:
   html_document:
     toc: false
 ---
 
-Write stuff in Markdown here. Like **bold** things and *italic* things. 
+This is the website for my reflections and progress in the capstone course! 
 
 And images:
 
-![](https://media.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif)
+![](https://media.giphy.com/media/nRbFz28iIbDKo/giphy.gif)
 
 And don't forget about R code:
 
